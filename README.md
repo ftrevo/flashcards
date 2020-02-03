@@ -6,7 +6,7 @@
 ## A single modification
 * To change from the question and the answer, tap on the text, i did not made a explicit button for this.
 
-## Isues
+## Issues
 * I could not make KeyboardAvoidingView work, tried a lot of things, but with no sucess :(. If you could point the correct way of doing it, i will be glad!
 
 ## What You're Getting
